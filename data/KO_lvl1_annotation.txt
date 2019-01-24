@@ -1,0 +1,5 @@
+Fraction	Genetic Information Processing	Metabolism	Environmental Information Processing	Cellular Processes	Diseases	Organismal Systems
+Viral	31.02	52.78	9.62	4.63	1.95	0
+Cellular	15.31	63.43	15.24	3.21	2	0.81
+
+

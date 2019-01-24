@@ -1,0 +1,4 @@
+Fraction	Amino Acids and Derivatives	Carbohydrates	Cell Division and Cell Cycle	Cell Wall and Capsule	Clustering-based subsystems	Cofactors, Vitamins, Prosthetic Groups, Pigments	DNA Metabolism	Dormancy and Sporulation	Fatty Acids, Lipids, and Isoprenoids	Iron acquisition and metabolism	Membrane Transport	Metabolism of Aromatic Compounds	Miscellaneous	Motility and Chemotaxis	Nitrogen Metabolism	Nucleosides and Nucleotides	Phages, Prophages, Transposable elements, Plasmids	Phosphorus Metabolism	Photosynthesis	Potassium metabolism	Protein Metabolism	RNA Metabolism	Regulation and Cell signaling	Respiration	Secondary Metabolism	Stress Response	Sulfur Metabolism	Virulence, Disease and Defense
+Viral 	49	103	87	82	576	111	386	7	16	7	172	2	374	95	22	119	11917	28	8	16	361	73	35	13	3	111	2	64
+Cellular	9606	12720	5348	5104	20095	10197	9367	193	4305	2547	4673	1165	11708	1553	1253	2741	9255	1108	570	416	10927	4240	2720	5787	534	4498	1294	2436
+

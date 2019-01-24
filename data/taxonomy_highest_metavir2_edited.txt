@@ -1,0 +1,5 @@
+Taxonomy	Viral	Cellular
+Satellites	3.044	3.546
+Unclassified viruses	7.405	2.864
+dsDNA viruses, no RNA stage	2.148	4.011
+ssDNA viruses	87.404	89.577

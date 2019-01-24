@@ -1,0 +1,23 @@
+Taxonomy	SB	HBC	PAII	RM
+Circovirus	0.689	0.197	0	2.194
+Circovirus environmental samples	4.599	0.407	0	0.85
+unclassified Circoviridae	15.104	2.646	0.109	12.739
+Begomovirus	0.4	0.407	0	0.139
+Mastrevirus	0.099	0	0	0
+unclassified Geminiviridae	0.954	0.386	0	0
+Inovirus	0.408	0.129	0.274	0.032
+Plectrovirus	0.058	0	0	0
+unclassified Inoviridae	0.064	0.042	0	0.008
+Bullavirinae	0.025	0	0	0.012
+Bdellomicrovirus	7.713	0.923	0.123	8.918
+Chlamydiamicrovirus	12.046	3.871	0	12.489
+Spiromicrovirus	0	0.08	0	0.014
+unclassified Gokushovirinae	26.75	22.767	0.465	46.095
+unclassified Microviridae	7.188	45.567	0.559	6.937
+Babuvirus	0	0	0	0.109
+Nanovirus	0	0	0	0.008
+Parvovirinae	0.025	0	0	0
+unclassified ssDNA viruses	11.281	3.514	0.536	4.246
+
+
+

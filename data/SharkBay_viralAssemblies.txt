@@ -1,0 +1,58 @@
+Contig#,Size,Gene,Organism,Ident,Evalue
+contig-2000000,1598,Hypothetical protein,Pseudomonas sp Ag1,80%,3e-152
+contig-6000000,1041,no hits
+contig-14000000,924,Hypothetical protein,Chlamydia phage 3,42%,2e-31
+contig-2,1502,Hypothetical protein,Marine Virus SOG04032,33%,8e-12
+contig-1000002,2208,Hypothetical protein, Mycobacterium sp JLS,28%,2.5
+contig-2000002,1059,dTDP-epimerase,Methylomonas methanica MC09,32%,7.5 
+contig-1000003,2028,Circoviridae 3 LDMD2013/Chloris striate mosic virus,43%/25%,6e-18/4e-9
+contig-3000003,1012,hypothetical protein,Polaribacter sp MED152,3.7,26%
+contig-4,4099,no hits
+contig-9000004,1160,hypothetical protein,Saccoglossus kowalevskii,30%,8.8
+contig-42000003,1074,hypothetical protein,Streptomyces sp. AA1529,2.2,25%
+contig-15000005,1570,Protein acetyltransferase,Vibrio fluvialis,24%,0.25
+contig-6,1060,no hits
+contig-1000006,2828,helicase,Xenopus,32%,1
+contig-7,1473,no hits
+contig-1000007,1202,hypothetical protein,Synechococcus sp. PCC 7502
+contig-8,1554,no hits
+contig-9,1603,probable acyl-CoA synthetase protein,Rhodobacteraceae bacterium HTCC2150,1.4,25%
+contig-1000009,1678,hypothetical protein CDPG_00080,Cellulophaga phage phi47:1,0.0,99%
+contig-10,1902,no hits
+contig-15000010,1199,capsid,Nepavirus,0.12,27%
+contig-2000010,3827,Tail Collar domain-containing protein,Clostridium cellulovorans 743B,6e-08,66%
+contig-11,1291,no hits
+contig-7000012,1784,Circoviridae LDMD2013/Grapevine geminivirus,3e-15,29%
+
+
+-Shark Bay Viral Assembly stats-
+
+Contigs >= 100 nt
+ Number: 504
+ Total length: 149063
+ Average: 295
+ N50: 353
+ Median: 172
+ Largest: 4099
+Contigs >= 500 nt
+ Number: 49
+ Total length: 57537
+ Average: 1174
+ N50: 1473
+ Median: 924
+ Largest: 4099
+
+Contigs >= 100 nt
+ Number: 179
+ Total length: 70506
+ Average: 393
+ N50: 424
+ Median: 253
+ Largest: 3318
+Contigs >= 500 nt
+ Number: 28
+ Total length: 33271
+ Average: 1188
+ N50: 1310
+ Median: 990
+ Largest: 3318

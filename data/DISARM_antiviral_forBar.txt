@@ -1,0 +1,8 @@
+Fraction	drmA; Putative helicase domain in DISARM	drmB; DUF1998, Helicase-associated domain	drmC; Phospholipase D/nuclease domain	drmMII; 5-cytosine DNA methyltransferase
+Cellular	0.4666666667	0.0133333333	0.24	0.28
+Viral 	1	0	0	0
+
+
+
+
+

@@ -1,0 +1,11 @@
+Gene	Cellular	Viral 
+brxHI; DEAD/DEAH box helicase	5000	200
+brxHII/drmD; SNF2 family N-terminal domain	700	500
+brxL; Putative ATP-dependent Lon protease	100	0
+brxP; Phosphoadenosine/sulfate reductase	1100	600
+pglXl; Adenine-specific methylase	700	7400
+pglZ; Core gene of the BREX system	200	0
+
+
+
+

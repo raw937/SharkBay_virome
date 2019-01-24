@@ -1,0 +1,11 @@
+Fraction	cas1; CRISPR protein 	cas2; CRISPR protein 	cas3; CRISPR endonuclease/helicase	cas4; CRISPR exonuclease  [EC;3.1.12.1]	cas5t; CRISPR protein 	cmr2; CRISPR protein 	csn1; CRISPR endonuclease [EC;3.1.-.-]	cst2; CRISPR protein 	csx10; CRISPR protein 
+Cellular	0.0833333333	0.0833333333	0.25	0.0833333333	0.0833333333	0.0833333333	0.0833333333	0.0833333333	0.1666666667
+Viral 	0	0	0	0	0	0	0	0	0
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+Fraction	brxHI; DEAD/DEAH box helicase	brxHII/drmD; SNF2 family N-terminal domain	brxL; Putative ATP-dependent Lon protease	brxP; Phosphoadenosine/sulfate reductase	pglXl; Adenine-specific methylase	pglZ; Core gene of the BREX system
+Cellular	0.641025641	0.0897435897	0.0128205128	0.141025641	0.0897435897	0.0256410256
+Viral 	0.0229885057	0.0574712644	0	0.0689655172	0.8505747126	0
+
+
+
+
+
+

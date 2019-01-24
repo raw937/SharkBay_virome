@@ -1,0 +1,17 @@
+Gene	Cellular	Viral 
+cas1; CRISPR protein 	1	0
+cas2; CRISPR protein 	1	0
+cas3; CRISPR endonuclease/helicase	3	0
+cas4; CRISPR exonuclease  [EC;3.1.12.1]	1	0
+cas5t; CRISPR protein 	1	0
+cmr2; CRISPR protein 	1	0
+csn1; CRISPR endonuclease [EC;3.1.-.-]	1	0
+cst2; CRISPR protein 	1	0
+csx10; CRISPR protein 	2	0
+
+
+
+
+
+
+

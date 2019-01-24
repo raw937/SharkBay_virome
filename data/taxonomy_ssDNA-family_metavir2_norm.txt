@@ -1,0 +1,20 @@
+Taxonomy	Viral	Cellular
+Circovirus	68.9	19.9
+Circovirus environmental samples	459.9	235.1
+unclassified Circoviridae	1510.4	336.7
+Begomovirus	40	36.6
+Eragrovirus	0	3.3
+Mastrevirus	9.9	20.3
+unclassified Geminiviridae	95.4	59.7
+Bullavirinae	2.5	8.4
+Inovirus	40.8	3613.6
+Plectrovirus	5.8	0
+unclassified Inoviridae	6.4	477
+Bdellomicrovirus	771.3	160.7
+Chlamydiamicrovirus	1204.6	586.6
+unclassified Gokushovirinae	2675	1238.7
+unclassified Microviridae	718.8	1438.8
+Nanoviridae	0	1.2
+Parvoviridae	2.5	0
+unclassified ssDNA viruses	1128.1	721.1
+

@@ -1,0 +1,14 @@
+Taxonomy	Viral	Cellular
+Retro-transcribing viruses	0	0.067
+Satellites	3.044	3.546
+Virus families not assigned to an order	0.008	0.015
+dsDNA viruses, no RNA stage	2.148	4.011
+dsRNA viruses	0	0.006
+ssDNA viruses	87.404	89.577
+ssRNA viruses	0	0.038
+unassigned viruses	0.054	0.004
+unclassified archaeal viruses	0.018	0.007
+unclassified phages	0.064	0.112
+unclassified virophages	0.011	0
+unclassified viruses	7.25	2.615
+

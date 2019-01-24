@@ -1,0 +1,11 @@
+Gene	Cellular	Viral 
+drmA; Putative helicase domain in DISARM	3500	200
+drmB; DUF1998, Helicase-associated domain	100	0
+drmC; Phospholipase D/nuclease domain	1800	0
+drmMII; 5-cytosine DNA methyltransferase	2100	0
+
+
+
+
+
+

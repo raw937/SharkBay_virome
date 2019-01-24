@@ -1,0 +1,9 @@
+Taxonomy	Viral	Cellular
+Circoviridae	23.3310069448	6.6054165085
+Geminiviridae	1.6624143336	1.3396146375
+Inoviridae	0.6063865085	45.6652303021
+Microviridae	61.4647094493	38.3263747795
+Nanoviridae	0	0.0133961464
+Parvoviridae	0.0286031372	0
+unclassified ssDNA viruses	12.9068796266	8.049967626
+

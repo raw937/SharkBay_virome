@@ -1,0 +1,3 @@
+Taxonomy	Circovirus	Circovirus environmental samples	unclassified Circoviridae	Begomovirus	Eragrovirus	Mastrevirus	unclassified Geminiviridae	Bullavirinae	Inovirus	Plectrovirus	unclassified Inoviridae	Bdellomicrovirus	Chlamydiamicrovirus	unclassified Gokushovirinae	unclassified Microviridae	Nanoviridae	Parvoviridae	unclassified ssDNA viruses
+Viral	0.0078830246	0.0526183312	0.1728087137	0.004576502	0	0.0011326842	0.0109149572	0.0002860314	0.004668032	0.0006635928	0.0007322403	0.0882463989	0.1378213562	0.306053568	0.0822397401	0	0.0002860314	0.1290687963
+Cellular	0.0022215524	0.0262455764	0.0375877736	0.0040858703	0.0003683981	0.0022662067	0.0066646572	0.0009377407	0.4034071246	0	0.0532502763	0.017939873	0.0654855599	0.1382832647	0.1606215881	0.000133963	0	0.0805005749
