@@ -1,6 +1,6 @@
 ### Viral communities of Shark Bay modern stromatolites
 
-Manuscript is currently accepted.
+Manuscript is currently published.
 
 This is the code and analysis for this article. 
 
